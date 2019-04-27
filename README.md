@@ -1,5 +1,4 @@
 Autore: Romen Ushettige
-
 Classe: 3AT
 
 
@@ -26,13 +25,15 @@ Per far funzionare questo programma e' necessario Python, consigliata la version
 I tag principali sono:
 - #svi
 - #pro
-- 
+- #mirror
+- #sys, os, time, datetime
+- #lastchange
+
 
 ## Changelog
-**02_02  2018/10/13**
-Sono state aggiunte, alla versione precedente, degli standard per la bellezza del programma,
-aggiunta del changelog e versione all' intenrno del programma, e modifica di presentazione del autore,
-aggiunta della variabile "a" all'interno del main aggiungerla in un altro print con aggiunta della funzione f1 all'interno della variabile "a"
+**01_01  27/04/2019**
+Prima versione
 
-**02_01	2018/09/29**
-Utilizzo boold, funzione di prova che restituira il numero intero 0
+
+## Authore
+Ushettige Romen
